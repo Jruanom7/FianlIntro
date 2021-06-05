@@ -1,0 +1,37 @@
+BODY{
+background-image: url(fondo.jpg);
+}
+
+h1{
+	text-align: center;
+	color: white;
+	background-color: royalblue;
+}
+
+h2{
+	background-color: black;
+	text-align: center;
+	color: whitesmoke;
+}
+
+p{
+	text-shadow: blue 0.5px 0.5px;
+	background-color: floralwhite;
+}
+
+tbody{
+	background-color: white;
+	text-align: center;
+}
+
+table{ 
+margin: auto;
+border-collapse: separate;
+border: black 10px solid;
+ }
+
+ footer{
+ 	text-align: center;
+ 	color: white;
+ 	background-color: royalblue;
+ }
